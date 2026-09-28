@@ -1,0 +1,1 @@
+{"type":"module","scripts":{"test":"node --experimental-strip-types src/session_inventory.test.ts","start":"node --experimental-strip-types src/session_inventory.ts"},"dependencies":{"zod":"^3.23.8"}}
